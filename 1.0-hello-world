@@ -1,3 +1,9 @@
+// Ecrire un programme vide qui ne fait rien.
+ALGORITHME "Empty"
+DEBUT
+
+FIN
+
 // Ecrire un programme qui affiche “Bienvenue” à l’écran.
 
 ALGORITHME "Saluer"
