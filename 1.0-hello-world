@@ -1,0 +1,26 @@
+// Ecrire un programme qui affiche “Bienvenue” à l’écran.
+
+ALGORITHME "Saluer"
+DEBUT
+  AFFICHER("Bienvenue")
+FIN
+
+
+
+
+// Ecrire un programme qui affiche "42" à l’écran.
+
+ALGORITHME "Forty-two"
+DEBUT
+  AFFICHER("42")
+FIN
+
+
+
+
+// Ecrire un programme qui affiche "12.5€" à l’écran.
+
+ALGORITHME "Money"
+DEBUT
+  AFFICHER("12.5€")
+FIN
